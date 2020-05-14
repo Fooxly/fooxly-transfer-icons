@@ -1,11 +1,14 @@
-import SvgUri from 'react-native-svg-uri'
+import { SvgXml } from 'react-native-svg'
 
 const Wrapper = (i, props) => {
-  <SvgUri
-    width={props.s ?? 24}
-    height={props.s ?? 24}
-    source={i}
-  />
+  return (
+    <SvgXml
+      width={props.s ?? 24}
+      height={props.s ?? 24}
+      xml={i}
+    />
+  )
 }
 
-export const Figma = props => Wrapper(require('./icons/figma.svg'), props)
+import FigmaSvg from './icons/figma.svg'
+export const Figma = props => Wrapper(FigmaSvg, props)
