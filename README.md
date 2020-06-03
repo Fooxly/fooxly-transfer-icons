@@ -73,6 +73,7 @@ import { AccessIcon } from '@fooxly/transfer-icons/native'
 
 | Program | Export | Icon |
 | ------- | ------ | ---- |
+| Adobe After Effects   | AfterEffectsIcon  | <img width="50" height="50" style="background:transparent;" src='./icons/aftereffects.svg'> |
 | Adobe Illustrator     | IllustratorIcon   | <img width="50" height="50" style="background:transparent;" src='./icons/illustrator.svg'> |
 | Adobe Photoshop       | PhotoshopIcon     | <img width="50" height="50" style="background:transparent;" src='./icons/photoshop.svg'> |
 | Figma                 | FigmaIcon         | <img width="50" height="50" style="background:transparent;" src='./icons/figma.svg'> |

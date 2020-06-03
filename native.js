@@ -12,6 +12,8 @@ const Wrapper = (i, props) => {
 
 import Access from './icons/access.svg'
 export const AccessIcon = props => Wrapper(Access, props)
+import AfterEffects from './icons/aftereffects.svg'
+export const AfterEffectsIcon = props => Wrapper(AfterEffects, props)
 import Excel from './icons/excel.svg'
 export const ExcelIcon = props => Wrapper(Excel, props)
 import Figma from './icons/figma.svg'

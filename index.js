@@ -1,4 +1,5 @@
 import AccessIcon from './icons/access.svg'
+import AfterEffectsIcon from './icons/aftereffects.svg'
 import ExcelIcon from './icons/excel.svg'
 import FigmaIcon from './icons/figma.svg'
 import IllustratorIcon from './icons/illustrator.svg'
@@ -9,6 +10,7 @@ import WordIcon from './icons/word.svg'
 
 export {
   AccessIcon,
+  AfterEffectsIcon,
   ExcelIcon,
   FigmaIcon,
   IllustratorIcon,
