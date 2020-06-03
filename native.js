@@ -10,19 +10,19 @@ const Wrapper = (i, props) => {
   )
 }
 
-import AccessSvg from './icons/access.svg'
-export const Access = props => Wrapper(AccessSvg, props)
-import AiSvg from './icons/ai.svg'
-export const Ai = props => Wrapper(AiSvg, props)
-import ExcelSvg from './icons/excel.svg'
-export const Excel = props => Wrapper(ExcelSvg, props)
-import FigmaSvg from './icons/figma.svg'
-export const Figma = props => Wrapper(FigmaSvg, props)
-import PhotoshopSvg from './icons/photoshop.svg'
-export const Photoshop = props => Wrapper(PhotoshopSvg, props)
-import PowerpointSvg from './icons/powerpoint.svg'
-export const Powerpoint = props => Wrapper(PowerpointSvg, props)
-import SketchSvg from './icons/sketch.svg'
-export const Sketch = props => Wrapper(SketchSvg, props)
-import WordSvg from './icons/word.svg'
-export const Word = props => Wrapper(WordSvg, props)
+import Access from './icons/access.svg'
+export const AccessIcon = props => Wrapper(Access, props)
+import Excel from './icons/excel.svg'
+export const ExcelIcon = props => Wrapper(Excel, props)
+import Figma from './icons/figma.svg'
+export const FigmaIcon = props => Wrapper(Figma, props)
+import Illustrator from './icons/illustrator.svg'
+export const IllustratorIcon = props => Wrapper(Illustrator, props)
+import Photoshop from './icons/photoshop.svg'
+export const PhotoshopIcon = props => Wrapper(Photoshop, props)
+import Powerpoint from './icons/powerpoint.svg'
+export const PowerpointIcon = props => Wrapper(Powerpoint, props)
+import Sketch from './icons/sketch.svg'
+export const SketchIcon = props => Wrapper(Sketch, props)
+import Word from './icons/word.svg'
+export const WordIcon = props => Wrapper(Word, props)

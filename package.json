@@ -1,28 +1,28 @@
 {
-  "name": "@fooxly/fooxly-transfer-icons",
-  "version": "0.0.6",
-  "description": "Fooxly Transfer icon library",
+  "name": "@fooxly/transfer-icons",
+  "version": "0.1.0",
+  "description": "The official File Icon Library for Fooxly Transfer.",
   "keywords": [
     "fooxly",
     "transfer",
+    "icon",
     "icons",
     "library",
+    "react",
+    "native",
     "react-native",
     "svg"
   ],
   "author": "Fooxly <hello@fooxly.com> (https://developers.fooxly.com)",
-  "homepage": "https://github.com/Fooxly/fooxly-transfer-icons",
+  "homepage": "https://github.com/Fooxly/transfer-icons",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fooxly/fooxly-transfer-icons.git"
+    "url": "https://github.com/Fooxly/transfer-icons.git"
   },
   "bugs": {
-    "url": "https://github.com/Fooxly/fooxly-transfer-icons/issues",
+    "url": "https://github.com/Fooxly/transfer-icons/issues",
     "email": "bugs@fooxly.com"
   },
-  "main": "index.js",
-  "dependencies": {
-    "react-native-svg": "^12.1.0"
-  }
+  "main": "index.js"
 }

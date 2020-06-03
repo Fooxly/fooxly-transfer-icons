@@ -1,6 +1,4 @@
-yarn.lock
-test
-.github
+.git
 .gitignore
 .eslintignore
-test.js
+yarn.lock
